@@ -3,5 +3,16 @@ zacklofgren.xyz
 
 This is the source, templates, etc. for my personal website.
 
-It was generated with saait by Hiltjo Posthuma.
+It was generated with saait by Hiltjo Posthuma, which is the only
+dependency to generate more web pages.
 https://codemadness.org/git/saait/file/README.html
+
+pages/ and templates/ are used by saait to generate blog/ to be pushed to
+https://blog.zacklofgren.xyz.
+
+root/ is the homepage and everything else that should be at
+https://www.zacklofgren.xyz.
+
+`make generate` will generate the site with saait.
+`make sync` will use rsync to push blog/ and root/ to my domains.
+You must change this to your server for it to work.
