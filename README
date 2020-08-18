@@ -4,7 +4,8 @@ zacklofgren.xyz
 This is the source, templates, etc. for my personal website.
 
 It was generated with saait by Hiltjo Posthuma, which is the only
-dependency to generate more web pages.
+dependency to generate more web pages if you want to use the templates
+and not do it by hand.
 https://codemadness.org/git/saait/file/README.html
 
 pages/ and templates/ are used by saait to generate blog/ to be pushed to
