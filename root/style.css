@@ -42,10 +42,10 @@ h3 a:visited {
 	text-decoration: none; 
 }
 a {
-	color: #458588
+	color: #458588;
 }
 a:visited {
-	color: #d3869b
+	color: #fabd2f;
 }
 a:hover,
 h1 a:hover,
