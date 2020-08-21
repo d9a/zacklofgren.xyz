@@ -42,7 +42,6 @@ h3 a:visited {
 	text-decoration: none; 
 }
 a {
-	text-decoration: none;
 	color: #4585aa;
 }
 a:visited {
@@ -61,8 +60,8 @@ pre {
 	margin: 0;
 }
 code {
-	background-color: #eee;
-	border: 3px solid #aaa;
+	background-color: #1d2021;
+	border: 1px solid #a89984;
 	display: block;
 	font-family: monospace;
 	overflow-x: auto;
@@ -85,6 +84,7 @@ code {
 	font-weight: bold;
 	vertical-align: middle;
 	color: #fabd2f;
+	text-decoration: none;
 }
 #menu a:hover {
 	color: #fb4934;
