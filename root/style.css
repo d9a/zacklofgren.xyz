@@ -64,8 +64,13 @@ code {
 	border: 1px solid #a89984;
 	font-family: monospace;
 	overflow-x: auto;
-	padding: 5px;
+	padding: 1px;
 	word-wrap: normal;
+}
+
+#snippet {
+	display: block;
+	padding: 5px;
 }
 #menu td {
 	padding: 1ex 0;
