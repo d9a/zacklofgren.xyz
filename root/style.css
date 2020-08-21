@@ -42,7 +42,8 @@ h3 a:visited {
 	text-decoration: none; 
 }
 a {
-	color: #458588;
+	text-decoration: none;
+	color: #4585aa;
 }
 a:visited {
 	color: #fabd2f;
@@ -51,7 +52,7 @@ a:hover,
 h1 a:hover,
 h2 a:hover,
 h3 a:hover {
-	color: #fabd2f
+	color: #fb4934;
 }
 table tr td {
 	padding: 2px 10px 2px 0px;
@@ -83,6 +84,10 @@ code {
 #menu a {
 	font-weight: bold;
 	vertical-align: middle;
+	color: #fabd2f;
+}
+#menu a:hover {
+	color: #fb4934;
 }
 .footer {
 	position: absolute;
